@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;600&family=Poppins:wght@200;500&display=swap');
+
+body{
+
+    background: #120052;
+    font-family: noto sans;
+    font-weight: 300;
+}   
+
+.btn{
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
