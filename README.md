@@ -1,6 +1,6 @@
 # CRUD-2-semestre
 
-A ideia desse semestre é aprender CRUD em PHP funcionando em um servidor real.
+A ideia desse semestre é aprender CRUD em PHP funcionando em um servidor.
 
 Ficamos responsavel em criar um sistema que tenha as funções de criação, ler, editar e deletar.
 
